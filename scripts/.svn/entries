@@ -1,0 +1,40 @@
+8
+
+dir
+27
+svn+ssh://jeremymcanally@rubyforge.org/var/svn/dcov/scripts
+svn+ssh://jeremymcanally@rubyforge.org/var/svn/dcov
+
+
+
+2007-06-02T05:23:16.441020Z
+1
+jeremymcanally
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+02065e4a-ff63-4c8c-bb57-fe7369ec5044
+
+txt2html
+file
+
+
+
+
+2007-11-03T17:09:37.000000Z
+a06fece81ebd6a680590b751e9e51fa0
+2007-06-02T05:23:16.441020Z
+1
+jeremymcanally
+

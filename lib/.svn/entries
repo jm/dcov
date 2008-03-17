@@ -1,0 +1,43 @@
+8
+
+dir
+27
+svn+ssh://jeremymcanally@rubyforge.org/var/svn/dcov/lib
+svn+ssh://jeremymcanally@rubyforge.org/var/svn/dcov
+
+
+
+2007-08-21T21:26:23.457539Z
+27
+jeremymcanally
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+02065e4a-ff63-4c8c-bb57-fe7369ec5044
+
+dcov
+dir
+
+dcov.rb
+file
+
+
+
+
+2007-11-03T17:09:29.000000Z
+58678488d47769aeb7e7bebd30c76670
+2007-08-17T14:27:28.063268Z
+19
+jeremymcanally
+

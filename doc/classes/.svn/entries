@@ -1,0 +1,43 @@
+8
+
+dir
+27
+svn+ssh://jeremymcanally@rubyforge.org/var/svn/dcov/doc/classes
+svn+ssh://jeremymcanally@rubyforge.org/var/svn/dcov
+
+
+
+2007-06-02T05:23:16.441020Z
+1
+jeremymcanally
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+02065e4a-ff63-4c8c-bb57-fe7369ec5044
+
+Paragraph.html
+file
+
+
+
+
+2007-11-03T17:09:23.000000Z
+b60779af9c01c293c52a8960269f93dc
+2007-06-02T05:23:16.441020Z
+1
+jeremymcanally
+
+Paragraph.src
+dir
+

@@ -1,0 +1,40 @@
+8
+
+dir
+27
+svn+ssh://jeremymcanally@rubyforge.org/var/svn/dcov/doc/files/spec
+svn+ssh://jeremymcanally@rubyforge.org/var/svn/dcov
+
+
+
+2007-06-02T05:23:16.441020Z
+1
+jeremymcanally
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+02065e4a-ff63-4c8c-bb57-fe7369ec5044
+
+mock_code_rb.html
+file
+
+
+
+
+2007-11-03T17:09:19.000000Z
+cc759bc6dcfa02c3e1e91d470ee97db3
+2007-06-02T05:23:16.441020Z
+1
+jeremymcanally
+

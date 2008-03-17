@@ -1,0 +1,82 @@
+8
+
+dir
+27
+svn+ssh://jeremymcanally@rubyforge.org/var/svn/dcov/lib/dcov
+svn+ssh://jeremymcanally@rubyforge.org/var/svn/dcov
+
+
+
+2007-08-21T21:26:23.457539Z
+27
+jeremymcanally
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+02065e4a-ff63-4c8c-bb57-fe7369ec5044
+
+stats.rb
+file
+
+
+
+
+2007-11-03T17:09:29.000000Z
+ba5e7342742a05cdc9b1926694e67ed7
+2007-08-20T04:34:05.110859Z
+22
+jeremymcanally
+
+analyzer.rb
+file
+
+
+
+
+2007-11-03T17:09:29.000000Z
+d7a03e58e2effec8907f122ccee0293e
+2007-08-21T21:26:23.457539Z
+27
+jeremymcanally
+
+version.rb
+file
+
+
+
+
+2007-11-03T17:09:29.000000Z
+71eaa42f103d80ab5e2efb401ae20b6c
+2007-07-02T03:43:47.859080Z
+16
+jeremymcanally
+
+analyzers
+dir
+
+generators
+dir
+
+analyzed_token.rb
+file
+
+
+
+
+2007-11-03T17:09:29.000000Z
+2a13db0051f61524f156f0376a1a6f4b
+2007-06-27T13:45:19.888006Z
+10
+jeremymcanally
+

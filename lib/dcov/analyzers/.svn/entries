@@ -1,0 +1,52 @@
+8
+
+dir
+27
+svn+ssh://jeremymcanally@rubyforge.org/var/svn/dcov/lib/dcov/analyzers
+svn+ssh://jeremymcanally@rubyforge.org/var/svn/dcov
+
+
+
+2007-08-21T21:26:23.457539Z
+27
+jeremymcanally
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+02065e4a-ff63-4c8c-bb57-fe7369ec5044
+
+quality_analyzer.rb
+file
+
+
+
+
+2007-11-03T17:09:27.000000Z
+952487c7cff11465dec0fef0be189ebe
+2007-08-21T21:26:23.457539Z
+27
+jeremymcanally
+
+coverage_analyzer.rb
+file
+
+
+
+
+2007-11-03T17:09:27.000000Z
+ea6a0863a612a288df174be60d090cc9
+2007-08-21T21:26:23.457539Z
+27
+jeremymcanally
+
