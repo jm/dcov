@@ -63,7 +63,8 @@ module Dcov
       puts "Module coverage: #{coverage_rating(:module)}%"
       puts "  Not covered:"
       @coverage[:module][:not_covered].sort_by {|o| o.name}.each do |itm|
-        location = itm.in_files.first.file_absolute_name || "no known location"
+        first_in_file = itm.in_files.first
+        location = first_in_file ? first_in_file.file_absolute_name : "no known location"
         puts "    #{itm.name}:"
         puts "      #{location}"
       end
